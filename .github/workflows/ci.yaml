@@ -1,0 +1,31 @@
+name: CI
+
+on: 
+    pull_request:
+    push:
+        branches: ["main"]
+
+permissions:
+    contents: read
+
+jobs:
+    build-resume:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout
+              uses: actions/checkout@v4
+
+            - name: Install pandoc + TeX
+              run: | 
+                sudo apt-get update
+                sudo apt-get install -y pandoc texlive-xetex fonts-dejavu
+
+            - name: Build PDF
+              run : bash scripts/build.sh resumes/job-position/resume.md dist
+
+            - name: Upload PDF Artifact
+              uses: actions/upload-artifact@v4
+              with:
+                name: resume-pdf
+                path: dist/resume.pdf
+                if-no-files-found: error

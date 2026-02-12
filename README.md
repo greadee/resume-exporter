@@ -24,3 +24,13 @@ References:
 - Pandoc Demos: https://pandoc.org/demos.html
 - EditorConfig Docs: https://editorconfig-specification.readthedocs.io/
 
+## Github Actions
+
+Actions workflow allows resume PDF to be built and sent to /dist/ upon pull_request or push to 'main'.
+
+References:
+Build Data: https://docs.github.com/en/actions/tutorials/store-and-share-data
+Upload Artifact: https://docs.github.com/en/actions/tutorials/store-and-share-data
+
+
+
