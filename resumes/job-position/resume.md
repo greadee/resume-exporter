@@ -4,18 +4,19 @@ date: "2/11/2026"
 contact:
   - "Phone: (780) 984-2955"
   - "Email: proolux@telus.net"
-  - "LinkedIn: linkedin.com/in/yourprofile"
   - "GitHub: github.com/yourusername"
   - "Location: St. Albert, AB, Canada"
+header-includes:
+  - \newcommand{\divider}{\noindent\rule{\textwidth}{0.4pt}}
 ---
 
-# **Your Full Name**
+# **Connor Proulx**
+\divider
 
 **Objective**  
 Computer Science student seeking a *Summer Student Data Analyst* position at AGLC. I bring strong analytical and technical skills (Python, SQL), solid teamwork experience from the construction industry, and relevant coursework in data management and software engineering. 
 
----
-
+\divider
 ## **Education**
 
 **University of Alberta** — *B.Sc. Computer Science*  
@@ -29,15 +30,13 @@ Computer Science student seeking a *Summer Student Data Analyst* position at AGL
 **Northern Alberta Institute of Technology (NAIT)**  
 *Carpentry First-Year Certificate*
 
----
-
+\divider
 ## **Technical Skills**
 
 **Languages:** Python, SQL, RISC-V, C, Java  
 **Tools:** Pandas, NumPy, Git, Github Actions, Jupyter Notebooks, Android Studio
 
----
-
+\divider
 ## **Professional Experience**
 
 **Carpenter — Ledcor Construction**  
@@ -49,7 +48,7 @@ Computer Science student seeking a *Summer Student Data Analyst* position at AGL
 - Communicated with site management and subtrades to resolve issues and support efficient workflow.
 
 **Landscaping Labourer — Eagle Maintenance & Landscaping**  
-Summer 2025
+*Summer 2025*
 
 - Performed recurring residential maintenance services (mowing, trimming, property upkeep) across assigned service routes.  
 - Managed assigned residential service routes independently, ensuring timely and consistent completion of scheduled tasks. 
@@ -57,12 +56,12 @@ Summer 2025
 - Coordinated directly with owner regarding route planning and task priorities.
 
 **Sales Associate — Canadian Tire**  
-2018 – 2020  
+*2018 – 2020*  
 - Provided customer service and assisted with product selection.  
 - Managed inventory, stocking, and point-of-sale systems.  
 - Developed communication and teamwork skills in a fast-paced retail environment.
 
----
+\divider
 
 ## **Soft Skills**
 
@@ -71,7 +70,7 @@ Summer 2025
 - Detail-oriented problem solver  
 - Comfortable in high-pressure, deadline-driven environments
 
----
+\divider
 
 ## **Metis Citizenship** 
 

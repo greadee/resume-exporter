@@ -8,11 +8,11 @@ OUTPDF="${OUTDIR}/$(basename "$SRC" .md).pdf"
 
 mkdir -p "$OUTDIR"
 
-pandoc "$SRC" \
+pandoc -s "$SRC" \
   -o "$OUTPDF" \
   --pdf-engine=xelatex \
   -V geometry:margin=1in \
-  -V fontsize=11pt \
+  -V fontsize=10pt \
   -V mainfont="DejaVu Serif"
 
 echo "Built: $OUTPDF"
