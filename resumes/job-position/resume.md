@@ -55,6 +55,7 @@ Check out how I built this resume, and some of my other projects here: https://g
 
 ## **Soft Skills**
 - Strong communicator able to collaborate with diverse teams
+- Strong problem solving and analytical skills.
 - Quick learner with a safety-first mindset 
 - Comfortable in high-pressure, deadline-driven environments
 \divider
