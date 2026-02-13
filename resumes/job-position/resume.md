@@ -32,6 +32,9 @@ Computer Science student seeking a \textit{Summer Student Data Analyst} position
 **Tools:** Pandas, NumPy, Git, Github Actions, Jupyter Notebooks, Android Studio
 \divider
 
+## **Projects**
+Check out how I built this resume, and some of my other projects here: https://github.com/greadee
+
 ## **Professional Experience**
 **Landscaping Labourer — Eagle Maintenance & Landscaping**  \hfill \textit{Summer 2025}
 
@@ -52,8 +55,7 @@ Computer Science student seeking a \textit{Summer Student Data Analyst} position
 
 ## **Soft Skills**
 - Strong communicator able to collaborate with diverse teams
-- Quick learner with a safety-first mindset  
-- Detail-oriented problem solver  
+- Quick learner with a safety-first mindset 
 - Comfortable in high-pressure, deadline-driven environments
 \divider
 

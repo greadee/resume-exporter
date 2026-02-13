@@ -13,8 +13,8 @@ pandoc -s "$SRC" \
   --pdf-engine=xelatex \
   -V geometry:top=2cm \
   -V geometry:bottom=2cm \
-  -V geometry:left=3cm \
-  -V geometry:right=3cm \
+  -V geometry:left=2cm \
+  -V geometry:right=2cm \
   -V fontsize=10pt \
   -V mainfont="DejaVu Serif"
 
