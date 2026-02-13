@@ -11,7 +11,7 @@ mkdir -p "$OUTDIR"
 pandoc -s "$SRC" \
   -o "$OUTPDF" \
   --pdf-engine=xelatex \
-  -V geometry:margin=1in \
+  -V geometry: "left=3cm,right=3cm,top=2cm,bottom=2cm" \
   -V fontsize=10pt \
   -V mainfont="DejaVu Serif"
 
