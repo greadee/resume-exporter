@@ -41,12 +41,10 @@ Relevant Coursework:
 
 ## \textbf{Professional Experience}
 \textbf{Landscaping Labourer — Eagle Maintenance and Landscaping} \hfill \textit{Summer 2025} <br>
-\hfill St. Albert, Alberta, Canada  
 - Independently managed assigned residential service routes ensuring consistent quality standards.  
 - Coordinated directly with the business owner to plan routes and prioritize tasks.  
 
 \textbf{Carpenter — Ledcor Construction} \hfill \textit{May 2021 – Aug 2023}<br>  
-\hfill Edmonton, Alberta, Canada  
 - Constructed and erected exterior structural framing on commercial sites.<br>
 - Supported jobsite hazard assesements and planning<br>
 - Collaborated with crews and multiple subtrades to coordinate project tasks.  <br>
