@@ -40,12 +40,12 @@ Relevant Coursework:
 - Work with asynchronous data and UI state management ensuring application reliability.<br> 
 
 ## \textbf{Professional Experience}
-\textbf{Landscaping Labourer — Eagle Maintenance and Landscaping} \hfill \textit{Summer 2025}  
+\textbf{Landscaping Labourer — Eagle Maintenance and Landscaping} \hfill \textit{Summer 2025} <br>
 \hfill St. Albert, Alberta, Canada  
 - Independently managed assigned residential service routes ensuring consistent quality standards.  
 - Coordinated directly with the business owner to plan routes and prioritize tasks.  
 
-\textbf{Carpenter — Ledcor Construction} \hfill \textit{May 2021 – Aug 2023}  
+\textbf{Carpenter — Ledcor Construction} \hfill \textit{May 2021 – Aug 2023}<br>  
 \hfill Edmonton, Alberta, Canada  
 - Constructed and erected exterior structural framing on commercial sites.<br>
 - Supported jobsite hazard assesements and planning<br>
@@ -53,9 +53,9 @@ Relevant Coursework:
 - Communicated with site management to track and close deficiency lists for final completion. <br> 
 
 ## \textbf{Soft Skills}
-- Strong communicator able to collaborate with diverse teams  
-- Detail oriented with a safety-first mindset  
-- Comfortable in high-pressure, deadline-driven environments  
+- Strong communicator able to collaborate with diverse teams<br>  
+- Detail oriented with a safety-first mindset<br>  
+- Comfortable in high-pressure, deadline-driven environments<br>  
 
 ## \textbf{Metis Citizenship} 
 
